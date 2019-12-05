@@ -1,0 +1,8 @@
+D:\LessonWinServices\WinServiceIntro\WinServiceIntro\bin\Debug\WinServiceIntro.exe.config
+D:\LessonWinServices\WinServiceIntro\WinServiceIntro\bin\Debug\WinServiceIntro.exe
+D:\LessonWinServices\WinServiceIntro\WinServiceIntro\bin\Debug\WinServiceIntro.pdb
+D:\LessonWinServices\WinServiceIntro\WinServiceIntro\obj\Debug\WinServiceIntro.exe
+D:\LessonWinServices\WinServiceIntro\WinServiceIntro\obj\Debug\WinServiceIntro.pdb
+D:\LessonWinServices\WinServiceIntro\WinServiceIntro\obj\Debug\WinServiceIntro.ProjectInstaller.resources
+D:\LessonWinServices\WinServiceIntro\WinServiceIntro\obj\Debug\WinServiceIntro.csproj.GenerateResource.cache
+D:\LessonWinServices\WinServiceIntro\WinServiceIntro\obj\Debug\WinServiceIntro.Service1.resources

@@ -1,0 +1,85 @@
+﻿
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\LessonWinServices\WinServiceIntro\WinServiceIntro\bin\Debug\WinServiceIntro.exe assembly's progress.
+The file is located at D:\LessonWinServices\WinServiceIntro\WinServiceIntro\bin\Debug\WinServiceIntro.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: No mapping between account names and security IDs was done
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the D:\LessonWinServices\WinServiceIntro\WinServiceIntro\bin\Debug\WinServiceIntro.exe assembly's progress.
+The file is located at D:\LessonWinServices\WinServiceIntro\WinServiceIntro\bin\Debug\WinServiceIntro.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\LessonWinServices\WinServiceIntro\WinServiceIntro\bin\Debug\WinServiceIntro.exe assembly's progress.
+The file is located at D:\LessonWinServices\WinServiceIntro\WinServiceIntro\bin\Debug\WinServiceIntro.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: No mapping between account names and security IDs was done
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the D:\LessonWinServices\WinServiceIntro\WinServiceIntro\bin\Debug\WinServiceIntro.exe assembly's progress.
+The file is located at D:\LessonWinServices\WinServiceIntro\WinServiceIntro\bin\Debug\WinServiceIntro.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\LessonWinServices\WinServiceIntro\WinServiceIntro\bin\Debug\WinServiceIntro.exe assembly's progress.
+The file is located at D:\LessonWinServices\WinServiceIntro\WinServiceIntro\bin\Debug\WinServiceIntro.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The specified domain either does not exist or could not be contacted
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the D:\LessonWinServices\WinServiceIntro\WinServiceIntro\bin\Debug\WinServiceIntro.exe assembly's progress.
+The file is located at D:\LessonWinServices\WinServiceIntro\WinServiceIntro\bin\Debug\WinServiceIntro.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\LessonWinServices\WinServiceIntro\WinServiceIntro\bin\Debug\WinServiceIntro.exe assembly's progress.
+The file is located at D:\LessonWinServices\WinServiceIntro\WinServiceIntro\bin\Debug\WinServiceIntro.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: The account name is invalid or does not exist, or the password is invalid for the account name specified
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the D:\LessonWinServices\WinServiceIntro\WinServiceIntro\bin\Debug\WinServiceIntro.exe assembly's progress.
+The file is located at D:\LessonWinServices\WinServiceIntro\WinServiceIntro\bin\Debug\WinServiceIntro.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.
+
+Running a transacted installation.
+
+Beginning the Install phase of the installation.
+See the contents of the log file for the D:\LessonWinServices\WinServiceIntro\WinServiceIntro\bin\Debug\WinServiceIntro.exe assembly's progress.
+The file is located at D:\LessonWinServices\WinServiceIntro\WinServiceIntro\bin\Debug\WinServiceIntro.InstallLog.
+
+An exception occurred during the Install phase.
+System.ComponentModel.Win32Exception: No mapping between account names and security IDs was done
+
+The Rollback phase of the installation is beginning.
+See the contents of the log file for the D:\LessonWinServices\WinServiceIntro\WinServiceIntro\bin\Debug\WinServiceIntro.exe assembly's progress.
+The file is located at D:\LessonWinServices\WinServiceIntro\WinServiceIntro\bin\Debug\WinServiceIntro.InstallLog.
+
+The Rollback phase completed successfully.
+
+The transacted install has completed.

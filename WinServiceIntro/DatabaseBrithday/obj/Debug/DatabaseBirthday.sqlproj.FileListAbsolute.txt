@@ -1,0 +1,9 @@
+D:\LessonWinServices\WinServiceIntro\DatabaseBrithday\bin\Debug\DatabaseBirthday.dacpac
+D:\LessonWinServices\WinServiceIntro\DatabaseBrithday\bin\Debug\DatabaseBrithday.dll
+D:\LessonWinServices\WinServiceIntro\DatabaseBrithday\bin\Debug\DatabaseBrithday.pdb
+D:\LessonWinServices\WinServiceIntro\DatabaseBrithday\obj\Debug\DatabaseBrithday.dll
+D:\LessonWinServices\WinServiceIntro\DatabaseBrithday\obj\Debug\DatabaseBrithday.pdb
+D:\LessonWinServices\WinServiceIntro\DatabaseBrithday\obj\Debug\Model.xml
+D:\LessonWinServices\WinServiceIntro\DatabaseBrithday\obj\Debug\refactor.xml
+D:\LessonWinServices\WinServiceIntro\DatabaseBrithday\obj\Debug\postdeploy.sql
+D:\LessonWinServices\WinServiceIntro\DatabaseBrithday\obj\Debug\predeploy.sql
